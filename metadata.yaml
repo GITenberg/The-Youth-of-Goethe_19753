@@ -1,0 +1,30 @@
+_repo: The-Youth-of-Goethe_19753
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Peter Hume
+    birthdate: 1849
+    deathdate: 1918
+    gutenberg_agent_id: '8863'
+    url: http://www.gutenberg.org/2009/agents/8863
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Hume_Brown
+description: ''
+gutenberg_issued: '2006-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19753'
+  lccn: a 13002048
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- !lcsh 'Authors, German -- 18th century -- Biography'
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Childhood and youth.'
+title: The Youth of Goethe
+url: http://www.gutenberg.org/ebooks/19753
