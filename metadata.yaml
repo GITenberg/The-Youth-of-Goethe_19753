@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8863
     wikipedia: http://en.wikipedia.org/wiki/Peter_Hume_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19753#The-Youth-of-Goethe
 gutenberg_issued: '2006-11-11'
 gutenberg_type: Text
 identifiers:
